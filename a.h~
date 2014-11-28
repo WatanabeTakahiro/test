@@ -1,0 +1,9 @@
+/*
+"a.h"
+*/
+
+Extern a(int x){
+
+  printf("x=%d",x);
+
+}

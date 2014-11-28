@@ -1,0 +1,2 @@
+Hello:test.c
+	gcc -o Hello test.c
